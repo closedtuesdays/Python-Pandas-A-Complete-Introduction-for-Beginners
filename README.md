@@ -1,4 +1,4 @@
-# Welcome to GitHub Desktop!
+# Welcome!
 
 This repo is a walkthrough exercise of the tutorial made available by the LearnDataSci team. 
 
