@@ -1,5 +1,5 @@
 <p>This repo is a walkthrough exercise of a tutorial made available by the <a href="https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/">LearnDataSci</a> team. It's a very useful resource on manipulating data using the Python pandas package. Incidentally also a great use case for installing Jupyter Lab locally and versioning via GitHub Desktop.</br>
-All credit to Snowflake University.
+All credit to LearnDataSci.
 </br>
 </br>
 -Carlos Rocha</p>
